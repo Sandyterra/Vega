@@ -1,0 +1,260 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-01-12T21:48:43.360Z,-7.2344,129.2095,117.01,5,mb,,29,2.2,0.81,us,us2000j3e5,2019-04-02T20:52:30.040Z,"245km WNW of Saumlaki, Indonesia",earthquake,6.4,5.1,0.064,79,reviewed,us,us
+2019-01-12T20:40:35.160Z,37.4866,20.4045,10,4.5,mb,,133,1.25,1.04,us,us2000j3d8,2019-04-02T20:52:28.040Z,"45km SW of Mouzaki, Greece",earthquake,5.5,1.9,0.124,19,reviewed,us,us
+2019-01-12T19:42:30.070Z,-5.4307,151.3607,55.09,4.6,mb,,131,1.468,0.67,us,us2000j3d3,2019-04-02T20:52:28.040Z,"135km E of Kimbe, Papua New Guinea",earthquake,11.4,8.1,0.101,29,reviewed,us,us
+2019-01-12T19:02:32.490Z,-8.827,67.8958,10,4.6,mb,,55,4.725,0.7,us,us2000j3cn,2019-04-02T20:52:27.040Z,"Mid-Indian Ridge",earthquake,6.5,1.9,0.098,31,reviewed,us,us
+2019-01-12T17:15:22.210Z,-5.7533,152.134,27.37,5.2,mb,,113,1.552,0.84,us,us2000j9s9,2019-04-02T20:53:41.040Z,"155km S of Kokopo, Papua New Guinea",earthquake,11.1,5.1,0.074,65,reviewed,us,us
+2019-01-12T17:13:17.320Z,-5.8486,152.2245,10,5.3,mww,,21,1.647,0.88,us,us2000j3bz,2019-04-02T20:52:25.040Z,"165km S of Kokopo, Papua New Guinea",earthquake,7.5,1.8,0.071,19,reviewed,us,us
+2019-01-12T16:56:15.960Z,-4.8184,145.1994,130.14,4.5,mb,,108,3.503,1.15,us,us2000j9s8,2019-04-02T20:53:40.040Z,"80km NW of Madang, Papua New Guinea",earthquake,9.7,9.2,0.128,18,reviewed,us,us
+2019-01-12T16:22:34.690Z,-19.1637,-177.4718,572.15,4.7,mb,,82,4.476,0.81,us,us2000j3bq,2019-04-02T20:52:25.040Z,"208km NE of Ndoi Island, Fiji",earthquake,15.5,9.9,0.082,45,reviewed,us,us
+2019-01-12T14:13:01.370Z,-8.4524,119.7053,91.37,4.6,mb,,73,2.511,1.2,us,us2000j3bl,2019-04-02T20:52:24.040Z,"19km WNW of Cempa, Indonesia",earthquake,8.2,5,0.117,22,reviewed,us,us
+2019-01-12T13:57:06.570Z,-5.9174,151.7176,10,4.6,mb,,131,1.771,1.28,us,us2000j9s3,2019-04-02T20:53:40.040Z,"179km ESE of Kimbe, Papua New Guinea",earthquake,6.9,1.9,0.146,14,reviewed,us,us
+2019-01-12T13:20:11.210Z,18.0641,120.5825,49.24,4.7,mb,,102,3.954,1.05,us,us2000j3bg,2019-04-02T20:52:23.040Z,"2km ENE of Batac City, Philippines",earthquake,4,7.2,0.057,93,reviewed,us,us
+2019-01-12T12:54:01.990Z,-7.6083,127.4766,155.42,4.7,mb,,30,3.805,0.79,us,us2000j3bd,2019-04-02T20:52:23.040Z,"234km ENE of Dili, East Timor",earthquake,7.2,7,0.061,83,reviewed,us,us
+2019-01-12T12:04:26.400Z,-6.8394,104.1856,38.71,5.1,mb,,78,2.75,1.01,us,us2000j3b8,2019-04-02T20:52:23.040Z,"156km SSW of Kotaagung, Indonesia",earthquake,7.1,6.5,0.063,82,reviewed,us,us
+2019-01-12T11:19:03.440Z,53.0743,159.2833,76.42,5,mb,,75,0.385,0.56,us,us2000j3b2,2019-04-02T20:52:22.040Z,"42km E of Petropavlovsk-Kamchatskiy, Russia",earthquake,8,5,0.032,320,reviewed,us,us
+2019-01-12T07:27:51.110Z,-26.6648,-175.8795,10,4.9,mb,,135,3.145,1.3,us,us2000j39y,2019-04-02T20:52:21.040Z,"South of Tonga",earthquake,7.3,1.8,0.125,20,reviewed,us,us
+2019-01-12T06:48:51.780Z,-18.0553,-177.9233,582.91,4.9,mb,,69,3.731,0.92,us,us2000j39m,2019-04-02T20:52:20.040Z,"298km NNE of Ndoi Island, Fiji",earthquake,11.9,7.5,0.079,51,reviewed,us,us
+2019-01-12T06:30:36.810Z,-26.7722,-175.8987,10,4.7,mb,,135,3.048,1.17,us,us2000j9rr,2019-04-02T20:53:38.040Z,"South of Tonga",earthquake,10.3,1.9,0.152,13,reviewed,us,us
+2019-01-12T06:04:02.190Z,-5.5282,131.3873,69.01,4.6,mb,,134,2.44,0.6,us,us2000j395,2019-04-02T20:52:20.040Z,"151km W of Tual, Indonesia",earthquake,9.5,3.8,0.107,26,reviewed,us,us
+2019-01-12T06:03:42.970Z,-26.8175,-175.8455,10,5.2,mb,,119,3.039,1.44,us,us2000j39c,2019-04-02T20:52:20.040Z,"South of Tonga",earthquake,10.6,1.8,0.09,41,reviewed,us,us
+2019-01-12T05:01:43.930Z,-26.6602,-176.193,10,4.5,mb,,141,2.998,0.91,us,us2000j9rn,2019-04-02T20:53:37.040Z,"South of the Fiji Islands",earthquake,12.6,1.9,0.156,12,reviewed,us,us
+2019-01-12T04:32:02.090Z,39.6095,75.7112,18.28,5.3,mww,,64,2.649,1.29,us,us2000j38u,2019-04-02T20:52:19.040Z,"28km NW of Kashi, China",earthquake,6.3,3.8,0.071,19,reviewed,us,us
+2019-01-12T01:10:41.150Z,-8.0637,118.7758,10,4.6,mb,,68,3.181,0.9,us,us2000j9rl,2019-04-02T20:53:37.040Z,"31km NW of Sangiang, Indonesia",earthquake,7.9,1.9,0.133,17,reviewed,us,us
+2019-01-12T00:09:19.460Z,-19.0067,169.5613,245.75,4.6,mb,,62,4.222,0.67,us,us2000j9rg,2019-04-02T20:53:36.040Z,"67km NNE of Isangel, Vanuatu",earthquake,12.2,8.6,0.1,30,reviewed,us,us
+2019-01-11T23:18:52.010Z,-60.1324,-27.1924,10,4.5,mb,,101,7.73,0.75,us,us2000j8w9,2019-04-02T20:53:36.040Z,"128km SSW of Bristol Island, South Sandwich Islands",earthquake,11,1.9,0.15,13,reviewed,us,us
+2019-01-11T23:02:51.580Z,-1.6756,-78.0484,146.11,4.6,mb,,79,1.441,0.75,us,us2000j35h,2019-04-02T20:52:16.040Z,"13km WNW of Palora, Ecuador",earthquake,7.2,7.8,0.043,157,reviewed,us,us
+2019-01-11T21:24:23.750Z,-21.66,168.7341,10,4.8,mb,,61,2.166,0.98,us,us2000j34s,2019-04-02T20:52:15.040Z,"88km E of Tadine, New Caledonia",earthquake,9.6,1.8,0.081,47,reviewed,us,us
+2019-01-11T19:33:34.980Z,55.0239,164.6495,10,4.6,mb,,125,4.066,0.66,us,us2000j33t,2019-04-02T20:52:14.040Z,"87km WSW of Nikol'skoye, Russia",earthquake,8.6,1.9,0.073,60,reviewed,us,us
+2019-01-11T19:12:00.010Z,2.1705,126.7096,68.22,4.5,mb,,169,1.536,0.89,us,us2000j8w8,2019-04-02T20:53:35.040Z,"152km WNW of Tobelo, Indonesia",earthquake,8.2,11,0.27,5,reviewed,us,us
+2019-01-11T19:05:29.180Z,-3.3932,101.2762,39,5.4,mww,,14,1.931,0.92,us,us2000j337,2019-04-02T20:52:13.040Z,"118km WNW of Bengkulu, Indonesia",earthquake,6.2,1.9,0.073,18,reviewed,us,us
+2019-01-11T19:04:58.740Z,-18.1651,-178.1768,539.93,4.7,mb,,75,3.613,1.07,us,us2000j33a,2019-04-02T20:52:13.040Z,"280km NNE of Ndoi Island, Fiji",earthquake,8.1,7.9,0.098,34,reviewed,us,us
+2019-01-11T12:17:30.010Z,-52.4508,17.9397,10,4.6,mb,,149,20.111,1.14,us,us2000j8vs,2019-04-02T20:53:34.040Z,"Southwest of Africa",earthquake,14,2,0.273,4,reviewed,us,us
+2019-01-11T10:47:22.490Z,-3.9716,130.0359,60.46,4.6,mb,,39,2.443,0.9,us,us2000j2xn,2019-04-02T20:52:09.040Z,"142km ESE of Amahai, Indonesia",earthquake,3.5,7.3,0.069,63,reviewed,us,us
+2019-01-11T09:01:25.930Z,2.7148,127.2509,35,4.8,mb,,106,1.933,1.09,us,us2000j2w2,2019-04-02T20:52:08.040Z,"137km NW of Tobelo, Indonesia",earthquake,7.5,2,0.085,43,reviewed,us,us
+2019-01-11T05:58:12.510Z,-21.4205,-173.9721,10,5.3,mww,,113,4.456,1.17,us,us2000j2uw,2019-04-02T20:52:05.040Z,"101km E of `Ohonua, Tonga",earthquake,10.1,1.8,0.069,20,reviewed,us,us
+2019-01-11T03:35:31.080Z,2.4011,126.9031,35,4.5,mb,,63,1.683,1.07,us,us2000j2uc,2019-04-02T20:52:04.040Z,"143km WNW of Tobelo, Indonesia",earthquake,8.6,2,0.125,19,reviewed,us,us
+2019-01-11T02:52:14.360Z,-26.9635,-176.1522,10,4.9,mb,,178,2.762,1.21,us,us2000j8vp,2019-04-02T20:53:33.040Z,"South of the Fiji Islands",earthquake,8.9,1.9,0.15,14,reviewed,us,us
+2019-01-11T02:33:38.440Z,61.4708,-149.8991,49.8,4.6,ml,,,,1,ak,ak019i8au86,2019-12-16T03:38:04.426Z,"6km SSE of Big Lake, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2019-01-11T02:29:01.810Z,-21.8103,-174.5563,35,4.7,mb,,145,5.122,0.41,us,us2000j8vn,2019-04-02T20:53:33.040Z,"66km SE of `Ohonua, Tonga",earthquake,13.2,2,0.147,14,reviewed,us,us
+2019-01-11T02:10:03.360Z,-26.7842,-176.106,10,4.9,mb,,144,2.933,0.9,us,us2000j8vf,2019-04-02T20:53:31.040Z,"South of the Fiji Islands",earthquake,13.7,1.9,0.177,11,reviewed,us,us
+2019-01-11T02:04:00.090Z,-27.0705,-176.0543,10,4.9,mb,,124,2.726,0.9,us,us2000j2tt,2019-04-02T20:52:03.040Z,"Kermadec Islands region",earthquake,7.6,1.7,0.125,20,reviewed,us,us
+2019-01-11T01:53:14.730Z,-27.0308,-176.1351,10,4.8,mb,,122,2.715,0.9,us,us2000j8vd,2019-04-02T20:53:31.040Z,"Kermadec Islands region",earthquake,8.7,1.7,0.098,33,reviewed,us,us
+2019-01-11T01:45:28.830Z,-23.9879,-175.8225,35,4.9,mb,,69,7.347,0.87,us,us2000j8vm,2019-04-02T20:53:33.040Z,"Tonga region",earthquake,12.3,2,0.162,14,reviewed,us,us
+2019-01-11T01:44:24.390Z,-26.9036,-176.1001,10,4.8,mb,,124,2.837,1.25,us,us2000j8vc,2019-04-02T20:53:31.040Z,"South of the Fiji Islands",earthquake,8,1.9,0.116,23,reviewed,us,us
+2019-01-10T20:41:00.900Z,44.9045,151.8082,10,4.7,mb,,210,6.636,0.73,us,us2000j8uk,2019-04-02T20:53:29.040Z,"East of the Kuril Islands",earthquake,8.1,2,0.183,9,reviewed,us,us
+2019-01-10T20:26:13.080Z,-27.1889,-176.2623,10,4.9,mb,,125,2.521,1.33,us,us2000j8uj,2019-04-02T20:53:29.040Z,"280km NE of Raoul Island, New Zealand",earthquake,14.6,1.9,0.117,25,reviewed,us,us
+2019-01-10T19:50:45.070Z,-26.7845,-175.755,10,4.7,mb,,144,3.114,0.98,us,us2000j8uh,2019-04-02T20:53:28.040Z,"South of Tonga",earthquake,11.5,1.9,0.208,7,reviewed,us,us
+2019-01-10T19:26:31.270Z,-30.3998,-177.7543,35,4.9,mb,,180,1.16,1.04,us,us2000j8ug,2019-04-02T20:53:28.040Z,"126km S of Raoul Island, New Zealand",earthquake,10.3,1.9,0.125,20,reviewed,us,us
+2019-01-10T18:24:41.280Z,34.5801,26.6262,36.37,5,mb,,43,1.059,1.2,us,us2000j2mg,2019-04-02T20:51:02.040Z,"76km SSE of Palaikastron, Greece",earthquake,6.4,6.5,0.05,129,reviewed,us,us
+2019-01-10T17:58:28.840Z,-17.1478,167.1508,10,4.8,mb,,148,4.943,0.63,us,us2000j2lt,2019-04-02T20:52:00.040Z,"117km SSW of Lakatoro, Vanuatu",earthquake,12.6,1.6,0.124,20,reviewed,us,us
+2019-01-10T17:56:40.760Z,-26.9697,-176.3356,10,5.1,mb,,129,2.668,0.89,us,us2000j8un,2019-04-02T20:53:30.040Z,"297km NNE of Raoul Island, New Zealand",earthquake,12.5,1.8,0.087,43,reviewed,us,us
+2019-01-10T17:30:14.200Z,37.3192,20.6178,10,4.8,mb,,48,1.052,1.2,us,us2000j2l9,2019-04-02T20:51:59.040Z,"48km SSW of Lithakia, Greece",earthquake,4.9,1.9,0.095,34,reviewed,us,us
+2019-01-10T17:15:17.740Z,-22.5275,-175.3964,35,4.5,mb,,123,6.161,1.22,us,us2000j8u7,2019-04-02T20:53:27.040Z,"140km SSW of `Ohonua, Tonga",earthquake,14.3,2,0.241,10,reviewed,us,us
+2019-01-10T17:12:00.050Z,-27.1754,-176.1577,10,5,mb,,121,2.587,1.27,us,us2000j2lk,2019-04-02T20:52:00.040Z,"288km NE of Raoul Island, New Zealand",earthquake,11,1.9,0.108,27,reviewed,us,us
+2019-01-10T17:00:37.630Z,-26.904,-175.5446,10,5.8,mww,,100,3.142,0.96,us,us2000j2kv,2019-04-02T20:51:01.040Z,"South of Tonga",earthquake,10.9,1.9,0.042,54,reviewed,us,us
+2019-01-10T17:00:14.270Z,-21.8157,168.8301,10,5.1,mb,,66,2.23,1.33,us,us2000j8u8,2019-04-02T20:53:27.040Z,"102km ESE of Tadine, New Caledonia",earthquake,11.1,1.8,0.084,46,reviewed,us,us
+2019-01-10T16:15:52.700Z,-16.2769,-176.4044,368.42,4.7,mb,,65,2.564,0.97,us,us2000j2jd,2019-04-02T20:51:59.040Z,"286km W of Hihifo, Tonga",earthquake,9.3,5.9,0.055,101,reviewed,us,us
+2019-01-10T07:10:53.060Z,53.7856,158.9296,10,4.6,mb,,117,0.781,0.65,us,us2000j2f7,2019-04-02T20:51:54.040Z,"75km NNE of Yelizovo, Russia",earthquake,8.3,1.9,0.059,87,reviewed,us,us
+2019-01-10T06:06:16.300Z,-23.6341,-66.7288,210.43,4.5,mb,,51,1.496,0.95,us,us2000j2e3,2019-04-02T20:51:53.040Z,"76km NNW of San Antonio de los Cobres, Argentina",earthquake,7.2,11,0.181,9,reviewed,us,us
+2019-01-10T04:54:20.660Z,-29.9483,-176.3448,10,5.2,mb,,57,1.547,0.59,us,us2000j2cz,2019-04-02T20:51:52.040Z,"168km ESE of Raoul Island, New Zealand",earthquake,8.2,1.8,0.061,90,reviewed,us,us
+2019-01-10T03:03:16.020Z,-52.7424,20.9087,10,4.9,mb,,74,20.301,0.44,us,us2000j8us,2019-04-02T20:53:30.040Z,"South of Africa",earthquake,13.8,2,0.169,11,reviewed,us,us
+2019-01-10T02:52:04.640Z,34.3645,78.2373,34.51,4.6,mb,,86,4.188,0.65,us,us2000j2bz,2019-04-02T20:51:50.040Z,"64km ENE of Leh, India",earthquake,8.2,5.1,0.114,23,reviewed,us,us
+2019-01-10T02:13:15.160Z,15.5777,-95.0517,35.5,4.5,mb,,151,1.035,1.11,us,us2000j2bj,2019-04-02T20:51:50.040Z,"67km SSE of Salina Cruz, Mexico",earthquake,6.7,8.8,0.059,83,reviewed,us,us
+2019-01-10T02:04:22.540Z,8.4648,-73.3433,128.95,4.6,mb,,78,2.568,0.94,us,us2000j8tk,2019-04-02T20:53:25.040Z,"9km NNE of Gonzalez, Colombia",earthquake,4.9,9.4,0.122,20,reviewed,us,us
+2019-01-09T22:38:06.660Z,5.6988,126.569,76.83,4.6,mb,,117,1.68,0.47,us,us2000j292,2019-04-02T20:51:48.040Z,"85km SSE of Pondaguitan, Philippines",earthquake,6.3,8.3,0.089,38,reviewed,us,us
+2019-01-09T19:23:07.590Z,-32.6198,80.3063,10,4.7,mb,,146,5.629,0.9,us,us2000j8t4,2019-04-02T20:53:24.040Z,"Broken Ridge",earthquake,9.1,1.9,0.104,28,reviewed,us,us
+2019-01-09T18:56:31.060Z,-9.3853,119.9551,72.93,5,mww,,48,2.374,1.37,us,us2000j23z,2019-04-02T20:51:01.040Z,"1km E of Napu, Indonesia",earthquake,7,4.9,0.071,19,reviewed,us,us
+2019-01-09T17:35:40.150Z,-4.6314,147.9241,10,4.7,mb,,65,2.63,0.98,us,us2000j22d,2019-04-02T20:51:46.040Z,"218km N of Finschhafen, Papua New Guinea",earthquake,8,1.9,0.123,20,reviewed,us,us
+2019-01-09T17:15:44.120Z,-17.9428,-177.8844,484.62,4.6,mb,,80,3.621,0.97,us,us2000j8sz,2019-04-02T20:53:23.040Z,"Fiji region",earthquake,13.9,8.5,0.068,64,reviewed,us,us
+2019-01-09T17:01:02.410Z,-4.5484,147.9213,10,4.9,mb,,62,2.549,0.89,us,us2000j1zj,2019-04-02T20:51:45.040Z,"227km N of Finschhafen, Papua New Guinea",earthquake,7.8,1.9,0.085,43,reviewed,us,us
+2019-01-09T16:09:58.810Z,-12.91,45.5606,10,4.9,mb,,65,5.842,0.9,us,us2000j1yx,2019-04-02T20:51:45.040Z,"32km ESE of Pamandzi, Mayotte",earthquake,12.2,1.8,0.083,46,reviewed,us,us
+2019-01-09T15:44:30.860Z,-20.2937,-177.7632,538.34,4.7,mb,,91,4.7,0.96,us,us2000j1yr,2019-04-02T20:51:44.040Z,"105km ENE of Ndoi Island, Fiji",earthquake,10.9,7.6,0.08,47,reviewed,us,us
+2019-01-09T14:25:35.080Z,-30.9707,-177.6369,10,4.6,mb,,161,1.738,0.98,us,us2000j8sq,2019-04-02T20:53:22.040Z,"130km ENE of L'Esperance Rock, New Zealand",earthquake,11,1.9,0.152,13,reviewed,us,us
+2019-01-09T09:39:09.090Z,3.9401,95.8773,45.6,5.1,mb,,92,1.666,0.84,us,us2000j1tl,2019-04-02T20:51:38.040Z,"35km SW of Meulaboh, Indonesia",earthquake,7,4.3,0.056,103,reviewed,us,us
+2019-01-09T09:32:13.180Z,-17.514,-174.2637,10,4.6,mb,,85,4.31,0.77,us,us2000j1tr,2019-04-02T20:51:38.040Z,"129km NNW of Neiafu, Tonga",earthquake,6.2,1.8,0.105,28,reviewed,us,us
+2019-01-09T08:32:30.790Z,18.534,121.2816,56.26,4.6,mb,,124,4.266,0.87,us,us2000j8sp,2019-04-02T20:53:22.040Z,"3km WNW of Santa Cruz, Philippines",earthquake,6.2,9.5,0.108,26,reviewed,us,us
+2019-01-09T08:23:06.100Z,-12.7484,45.4582,10,4.9,mb,,57,6.023,1.41,us,us2000j1pz,2019-04-02T20:51:36.040Z,"19km ENE of Pamandzi, Mayotte",earthquake,3,1.9,0.112,25,reviewed,us,us
+2019-01-09T07:56:31.970Z,6.1625,126.7504,106.19,4.5,mb,,112,1.471,0.58,us,us2000j1q7,2019-04-02T20:51:37.040Z,"67km ESE of Pondaguitan, Philippines",earthquake,12.1,9,0.124,19,reviewed,us,us
+2019-01-09T07:29:35.200Z,-19.5361,-173.3625,10,4.9,mb,,104,3.276,0.68,us,us2000j8sc,2019-04-02T20:53:20.040Z,"107km ENE of Pangai, Tonga",earthquake,10.4,1.9,0.112,25,reviewed,us,us
+2019-01-09T06:51:39.559Z,69.1016,-144.6726,14.6,4.5,ml,,,,0.72,ak,ak019ezpqow,2019-04-02T20:51:34.040Z,"114km NNE of Arctic Village, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2019-01-09T04:33:38.770Z,28.195,140.752,169.54,4.7,mb,,103,1.677,0.95,us,us2000j1m2,2019-04-02T20:51:33.040Z,"189km NW of Chichi-shima, Japan",earthquake,8.6,8,0.066,69,reviewed,us,us
+2019-01-09T02:41:08.000Z,-56.4354,-25.5839,10,4.5,mb,,99,6.58,0.76,us,us2000j8sf,2019-04-02T20:53:21.040Z,"103km ENE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,14.6,1.9,0.156,12,reviewed,us,us
+2019-01-09T00:18:22.980Z,12.2861,144.0206,10,4.7,mb,,104,1.536,0.6,us,us2000j1kb,2019-04-02T20:51:30.040Z,"129km SSW of Merizo Village, Guam",earthquake,8.4,1.9,0.072,59,reviewed,us,us
+2019-01-08T23:38:03.610Z,-31.7415,-178.5333,35,4.5,mb,,116,2.542,1.23,us,us2000j8ci,2019-04-02T20:53:17.040Z,"48km SE of L'Esperance Rock, New Zealand",earthquake,9.9,1.9,0.151,13,reviewed,us,us
+2019-01-08T22:33:17.160Z,12.031,143.868,10,4.7,mb,,89,1.83,0.59,us,us2000j1jn,2019-04-02T20:51:29.040Z,"161km SSW of Merizo Village, Guam",earthquake,8.9,1.8,0.104,28,reviewed,us,us
+2019-01-08T19:02:35.750Z,-59.7968,-26.2013,42.45,4.7,mb,,123,7.868,0.67,us,us2000j8cb,2019-03-19T21:51:08.040Z,"86km SSE of Bristol Island, South Sandwich Islands",earthquake,15,8.1,0.13,19,reviewed,us,us
+2019-01-08T18:53:36.460Z,-18.087,-174.6083,10,4.9,mb,,95,4.547,1.11,us,us2000j8cj,2019-04-02T20:53:17.040Z,"90km NW of Neiafu, Tonga",earthquake,9.6,1.7,0.069,67,reviewed,us,us
+2019-01-08T17:27:33.140Z,39.4328,72.5644,10,4.5,mb,,50,0.59,1.46,us,us2000j1fh,2019-04-02T20:51:26.040Z,"67km WSW of Sary-Tash, Kyrgyzstan",earthquake,2.7,1.9,0.127,22,reviewed,us,us
+2019-01-08T16:25:29.800Z,28.9962,142.448,10,4.5,mb,,149,1.907,0.31,us,us2000j8c7,2019-04-02T20:53:16.040Z,"213km N of Chichi-shima, Japan",earthquake,10.4,1.9,0.131,17,reviewed,us,us
+2019-01-08T16:18:02.150Z,-19.4492,169.8067,16.51,4.6,mb,,101,4.087,0.54,us,us2000j8c6,2019-04-02T20:53:16.040Z,"57km E of Isangel, Vanuatu",earthquake,10.7,5.6,0.165,13,reviewed,us,us
+2019-01-08T15:09:42.260Z,-8.066,130.6604,27.08,4.7,mb,,87,0.637,0.78,us,us2000j1ec,2019-04-02T20:51:25.040Z,"73km W of Saumlaki, Indonesia",earthquake,6.4,6.8,0.167,11,reviewed,us,us
+2019-01-08T14:49:01.870Z,-17.6716,-174.2895,10,5.2,mb,,56,4.371,1.25,us,us2000j1e2,2019-04-02T20:51:25.040Z,"113km NNW of Neiafu, Tonga",earthquake,9.3,1.8,0.081,50,reviewed,us,us
+2019-01-08T14:29:30.360Z,19.0656,121.041,36.74,4.6,mb,,59,3.733,0.81,us,us2000j8c0,2019-04-02T20:53:14.040Z,"50km N of Claveria, Philippines",earthquake,7.8,7.1,0.072,58,reviewed,us,us
+2019-01-08T14:14:50.300Z,-17.5406,-174.7662,10,4.6,mb,,71,4.617,0.82,us,us2000j8cc,2019-04-02T20:53:16.040Z,"148km NW of Neiafu, Tonga",earthquake,9.9,1.9,0.104,28,reviewed,us,us
+2019-01-08T12:39:30.950Z,30.5872,131.0441,35,6.3,mww,,26,2.534,0.83,us,us2000j1d4,2019-04-02T20:51:24.040Z,"16km SSE of Nishinoomote, Japan",earthquake,6,1.8,0.051,37,reviewed,us,us
+2019-01-08T12:16:44.640Z,23.1861,121.6463,22.57,4.9,mww,,47,0.381,0.9,us,us2000j1cx,2019-04-02T20:51:24.040Z,"69km NE of Taitung City, Taiwan",earthquake,5.3,4,0.083,14,reviewed,us,us
+2019-01-08T11:05:16.040Z,-10.5313,108.4765,10,4.7,mb,,115,2.778,1.22,us,us2000j1ch,2019-04-02T20:51:23.040Z,"300km S of Citotok, Indonesia",earthquake,3.9,1.9,0.099,31,reviewed,us,us
+2019-01-08T10:52:27.350Z,-11.2247,-13.7369,10,4.6,mb,,88,2.422,1.37,us,us2000j8c4,2019-04-02T20:53:15.040Z,"Ascension Island region",earthquake,9.7,1.8,0.146,14,reviewed,us,us
+2019-01-08T10:00:10.050Z,-4.6078,-74.0062,10,5.2,mww,,33,3.36,0.84,us,us2000j1c8,2019-04-02T20:51:22.040Z,"54km W of Saquena, Peru",earthquake,6.4,1.7,0.055,32,reviewed,us,us
+2019-01-08T09:54:47.990Z,-7.8778,106.5655,35,5.2,mb,,46,1.476,1.11,us,us2000j1c6,2019-08-24T07:38:31.548Z,"53km SSW of Rancaerang, Indonesia",earthquake,3,1.9,0.053,117,reviewed,us,us
+2019-01-08T09:10:27.300Z,54.5665,162.6045,10,4.5,mb,,140,2.809,0.92,us,us2000j1by,2019-04-02T20:51:20.040Z,"185km S of Ust'-Kamchatsk Staryy, Russia",earthquake,8.9,1.9,0.047,131,reviewed,us,us
+2019-01-08T06:14:55.180Z,-19.1748,-177.5515,547.76,4.5,mb,,162,4.407,0.61,us,us2000j8bn,2019-04-02T20:53:12.040Z,"202km NE of Ndoi Island, Fiji",earthquake,19.3,14.7,0.124,19,reviewed,us,us
+2019-01-08T00:40:49.340Z,-11.3181,-13.9405,10,4.8,mb,,80,3.389,0.88,us,us2000j8bm,2019-04-02T20:53:12.040Z,"Ascension Island region",earthquake,7.2,1.9,0.154,13,reviewed,us,us
+2019-01-07T17:41:46.230Z,10.4629,-63.0537,10,4.8,mb,,71,2.153,0.56,us,us2000j15k,2019-03-08T17:50:19.040Z,"13km SE of El Pilar, Venezuela",earthquake,5.3,1.9,0.068,66,reviewed,us,us
+2019-01-07T17:15:44.420Z,26.7955,99.4683,10,4.5,mb,,121,5.322,1,us,us2000j159,2019-03-08T17:50:19.040Z,"39km N of Jinding, China",earthquake,11.5,1.9,0.115,22,reviewed,us,us
+2019-01-07T16:58:50.260Z,-8.2027,108.9246,71.48,4.5,mb,,60,1.608,0.69,us,us2000j14r,2019-08-24T07:38:48.085Z,"56km SSW of Karangbadar Kidul, Indonesia",earthquake,8.2,7.1,0.097,31,reviewed,us,us
+2019-01-07T16:35:26.260Z,35.0039,140.0285,46.82,4.6,mb,,138,1.552,0.54,us,us2000j14f,2019-03-08T17:50:18.040Z,"12km SSW of Kawaguchi, Japan",earthquake,6.7,8.1,0.1,30,reviewed,us,us
+2019-01-07T15:04:08.690Z,-7.9552,107.7593,66.25,4.7,mb,,80,2.738,0.97,us,us2000j13r,2019-03-08T17:50:18.040Z,"30km S of Cibaregbeg, Indonesia",earthquake,6.7,8.1,0.093,35,reviewed,us,us
+2019-01-07T14:40:02.750Z,2.1922,126.7007,53.07,4.8,mb,,110,1.56,0.69,us,us2000j13j,2019-03-08T17:50:18.040Z,"154km WNW of Tobelo, Indonesia",earthquake,6.8,7.7,0.076,54,reviewed,us,us
+2019-01-07T14:24:03.710Z,28.931,130.5334,10,4.9,mb,,125,2.891,0.35,us,us2000j13l,2019-03-08T17:50:18.040Z,"120km ENE of Naze, Japan",earthquake,7.8,1.9,0.103,30,reviewed,us,us
+2019-01-07T14:22:03.580Z,28.8211,130.7651,10,4.6,mb,,139,2.963,1.25,us,us2000j8ba,2019-03-08T17:50:23.040Z,"135km ENE of Naze, Japan",earthquake,9.3,1.9,0.181,10,reviewed,us,us
+2019-01-07T14:11:52.010Z,2.442,126.781,39.88,5.2,mww,,34,1.759,1.11,us,us2000j137,2019-03-08T17:50:18.040Z,"157km WNW of Tobelo, Indonesia",earthquake,4.1,4.7,0.08,15,reviewed,us,us
+2019-01-07T13:43:28.900Z,-19.5722,-68.9156,103.54,4.9,mww,,55,0.279,0.53,us,us2000j12v,2019-03-08T17:50:18.040Z,"147km ENE of Iquique, Chile",earthquake,7.6,4.8,0.062,25,reviewed,us,us
+2019-01-07T09:14:47.750Z,16.1824,146.4919,55.9,4.8,mb,,74,3.018,0.92,us,us2000j11s,2019-03-08T17:50:18.040Z,"90km ESE of Anatahan, Northern Mariana Islands",earthquake,11.6,8.2,0.063,77,reviewed,us,us
+2019-01-07T07:48:57.380Z,2.205,126.6783,35,4.6,mb,,94,1.581,1.08,us,us2000j8ab,2019-03-08T17:50:23.040Z,"157km WNW of Tobelo, Indonesia",earthquake,9.2,2,0.146,14,reviewed,us,us
+2019-01-07T07:41:35.890Z,-6.9769,129.2477,145.09,4.7,mb,,27,2.266,0.83,us,us2000j118,2019-03-08T17:50:18.040Z,"252km WNW of Saumlaki, Indonesia",earthquake,6.9,5.6,0.061,82,reviewed,us,us
+2019-01-07T07:26:57.940Z,3.3418,-84.0118,10,4.6,mb,,136,5.574,0.97,us,us2000j115,2019-03-08T17:50:18.040Z,"Off the coast of Central America",earthquake,9.6,1.9,0.076,52,reviewed,us,us
+2019-01-07T07:20:44.680Z,2.381,126.8456,35,4.6,mb,,96,1.681,0.72,us,us2000j114,2019-03-08T17:50:18.040Z,"148km WNW of Tobelo, Indonesia",earthquake,7.1,1.9,0.072,58,reviewed,us,us
+2019-01-07T06:57:06.460Z,-62.6607,-158.1613,10,4.9,mb,,137,18.748,0.77,us,us2000j8a9,2019-03-08T17:50:23.040Z,"Pacific-Antarctic Ridge",earthquake,15.9,1.9,0.099,32,reviewed,us,us
+2019-01-07T06:33:44.280Z,41.4725,143.1673,34.96,4.5,mb,,125,0.542,1.02,us,us2000j10j,2019-03-08T17:50:18.040Z,"116km SE of Shizunai, Japan",earthquake,5.7,7.7,0.056,93,reviewed,us,us
+2019-01-07T06:10:08.860Z,-56.0068,-27.4431,53.28,4.6,mb,,92,5.467,0.84,us,us2000j8am,2019-03-08T17:50:23.040Z,"78km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,13.5,6.9,0.109,25,reviewed,us,us
+2019-01-07T05:52:33.510Z,-10.6072,-78.152,62.28,4.6,mb,,149,1.879,0.59,us,us2000j10e,2019-03-08T17:50:18.040Z,"35km W of Paramonga, Peru",earthquake,7.4,7.7,0.066,68,reviewed,us,us
+2019-01-07T05:08:04.910Z,10.4888,-63.164,20.48,4.6,mb,,64,2.204,1.06,us,us2000j0zl,2019-03-08T17:50:18.040Z,"5km SSW of El Pilar, Venezuela",earthquake,5.9,5.2,0.056,96,reviewed,us,us
+2019-01-07T04:12:13.880Z,2.4625,126.8308,41.41,4.5,mb,,113,1.762,1.27,us,us2000j0z8,2019-03-08T17:50:18.040Z,"154km WNW of Tobelo, Indonesia",earthquake,9.1,6.7,0.111,24,reviewed,us,us
+2019-01-07T04:03:21.030Z,2.3929,126.8824,41.76,4.5,mb,,133,1.681,0.81,us,us2000j0z3,2019-03-08T17:50:18.040Z,"145km WNW of Tobelo, Indonesia",earthquake,6.3,7.8,0.099,30,reviewed,us,us
+2019-01-07T03:48:26.250Z,-8.1852,119.8796,10,4.8,mb,,60,2.375,0.83,us,us2000j0yt,2019-03-08T17:50:18.040Z,"30km NNW of Bolengpulau, Indonesia",earthquake,7.2,0.7,0.1,31,reviewed,us,us
+2019-01-07T03:11:54.280Z,7.8663,121.9502,19.43,5.5,mww,,31,3.684,1.17,us,us2000j0yp,2019-03-08T17:50:18.040Z,"27km NW of Siocon, Philippines",earthquake,5.5,2.6,0.047,43,reviewed,us,us
+2019-01-07T01:44:55.630Z,-25.4188,-71.05,10,4.6,mb,,156,0.832,1.09,us,us2000j0yh,2019-03-08T17:50:18.040Z,"57km W of Taltal, Chile",earthquake,4.7,1.9,0.146,14,reviewed,us,us
+2019-01-07T00:13:22.380Z,-6.8682,145.6894,45.54,4.5,mb,,180,2.91,0.64,us,us2000j89v,2019-03-08T17:50:23.040Z,"66km SSW of Kainantu, Papua New Guinea",earthquake,9.4,13.3,0.127,18,reviewed,us,us
+2019-01-06T21:32:59.810Z,2.3324,126.7696,35,4.9,mb,,105,1.661,0.71,us,us2000j0wn,2019-03-08T17:50:18.040Z,"153km WNW of Tobelo, Indonesia",earthquake,8.2,2,0.069,65,reviewed,us,us
+2019-01-06T21:30:40.200Z,-26.4278,179.5494,524.61,4.5,mb,,139,3.586,0.61,us,us2000j7wv,2019-03-08T17:50:22.040Z,"South of the Fiji Islands",earthquake,6.6,12.1,0.14,15,reviewed,us,us
+2019-01-06T21:27:31.910Z,2.337,126.7541,35,4.7,mb,,105,1.671,0.73,us,us2000j0wm,2019-03-08T17:50:18.040Z,"155km WNW of Tobelo, Indonesia",earthquake,7.2,2,0.066,69,reviewed,us,us
+2019-01-06T21:07:31.480Z,2.4671,126.8885,35,4.6,mb,,79,1.75,0.9,us,us2000j0wi,2019-03-08T17:50:18.040Z,"149km WNW of Tobelo, Indonesia",earthquake,4.9,1.9,0.07,60,reviewed,us,us
+2019-01-06T20:31:41.400Z,2.3879,127.3148,54.61,4.7,mb,,53,1.606,1.14,us,us2000j0wb,2019-03-08T17:50:18.040Z,"106km NW of Tobelo, Indonesia",earthquake,6.8,8.6,0.099,31,reviewed,us,us
+2019-01-06T20:25:36.080Z,-19.6155,-69.619,110.04,4.8,mb,,103,0.403,1.4,us,us2000j0w5,2019-03-08T17:50:17.040Z,"86km NE of Iquique, Chile",earthquake,5.9,4.4,0.1,31,reviewed,us,us
+2019-01-06T20:23:52.310Z,2.3499,126.7179,43.19,4.5,mb,,117,1.696,1.42,us,us2000j0w6,2019-03-08T17:50:17.040Z,"159km WNW of Tobelo, Indonesia",earthquake,4.3,9.4,0.101,29,reviewed,us,us
+2019-01-06T20:06:27.760Z,2.4472,126.8881,43.36,5,mb,,107,1.731,1.1,us,us2000j0vz,2019-03-08T17:50:17.040Z,"147km WNW of Tobelo, Indonesia",earthquake,9,6.5,0.073,59,reviewed,us,us
+2019-01-06T19:16:02.350Z,2.354,126.6344,35,5,mb,,83,1.733,0.8,us,us2000j0vf,2019-03-08T17:50:17.040Z,"167km WNW of Tobelo, Indonesia",earthquake,8.1,1.9,0.052,118,reviewed,us,us
+2019-01-06T18:57:47.110Z,2.5056,126.9088,35,4.6,mb,,63,1.782,1.34,us,us2000j7wg,2019-03-08T17:50:22.040Z,"149km NW of Tobelo, Indonesia",earthquake,3.8,2,0.1,30,reviewed,us,us
+2019-01-06T18:44:30.780Z,-29.9779,-72.2278,10,4.7,mb,,141,0.86,0.95,us,us2000j0va,2019-03-08T17:50:17.040Z,"85km W of Coquimbo, Chile",earthquake,6,1.9,0.277,4,reviewed,us,us
+2019-01-06T18:35:35.400Z,2.2853,126.8075,49.78,4.7,mb,,122,1.603,0.98,us,us2000j0v9,2019-03-08T17:50:17.040Z,"147km WNW of Tobelo, Indonesia",earthquake,8.8,8.6,0.094,34,reviewed,us,us
+2019-01-06T18:25:28.960Z,2.2776,126.7763,49.22,5.1,mb,,104,1.607,1.11,us,us2000j0v6,2019-03-08T17:50:17.040Z,"150km WNW of Tobelo, Indonesia",earthquake,7.1,7.7,0.063,81,reviewed,us,us
+2019-01-06T18:18:09.690Z,2.2318,126.7396,52.54,5.1,mb,,78,1.579,0.74,us,us2000j0v3,2019-03-08T17:50:17.040Z,"151km WNW of Tobelo, Indonesia",earthquake,8.2,6.8,0.061,87,reviewed,us,us
+2019-01-06T18:14:34.150Z,2.1061,126.6564,55.11,4.9,mb,,66,1.503,1.24,us,us2000j0v0,2019-03-08T17:50:17.040Z,"156km WNW of Tobelo, Indonesia",earthquake,8.4,1.9,0.085,44,reviewed,us,us
+2019-01-06T18:12:31.160Z,-53.9959,159.0777,10,4.8,mb,,114,0.508,0.65,us,us2000j7wc,2019-03-08T17:50:22.040Z,"54km N of Macquarie Island, Australia",earthquake,7,1.9,0.148,14,reviewed,us,us
+2019-01-06T18:12:07.530Z,2.3827,126.9221,35,4.6,mb,,75,1.66,1.45,us,us2000j0v4,2019-03-08T17:50:17.040Z,"140km WNW of Tobelo, Indonesia",earthquake,4.6,2,0.107,26,reviewed,us,us
+2019-01-06T18:01:43.300Z,2.3861,126.7382,47.75,4.9,mb,,108,1.722,0.91,us,us2000j0ux,2019-03-08T17:50:17.040Z,"159km WNW of Tobelo, Indonesia",earthquake,7.2,7.2,0.072,61,reviewed,us,us
+2019-01-06T18:00:46.400Z,2.0097,126.6731,48.58,4.5,mb,,144,1.411,1.18,us,us2000j7wb,2019-03-08T17:50:22.040Z,"151km WNW of Tobelo, Indonesia",earthquake,9.5,5.3,0.135,16,reviewed,us,us
+2019-01-06T17:57:23.150Z,2.3047,126.7967,52.61,4.7,mb,,112,1.625,0.92,us,us2000j0uv,2019-03-08T17:50:17.040Z,"149km WNW of Tobelo, Indonesia",earthquake,7.4,5.4,0.085,42,reviewed,us,us
+2019-01-06T17:33:11.550Z,2.2334,126.6584,19.8,5.2,mb,,126,1.615,0.89,us,us2000j7wq,2019-03-08T17:50:22.040Z,"160km WNW of Tobelo, Indonesia",earthquake,7.1,4.6,0.1,33,reviewed,us,us
+2019-01-06T17:27:18.980Z,2.258,126.758,43.21,6.6,mww,,33,1.596,0.87,us,us2000j0uj,2019-03-08T17:50:17.040Z,"151km WNW of Tobelo, Indonesia",earthquake,6.7,3.6,0.038,68,reviewed,us,us
+2019-01-06T16:22:32.190Z,39.8478,77.6122,9.01,5,mww,,45,1.822,0.68,us,us2000j0uf,2019-03-08T17:50:17.040Z,"129km E of Arzak, China",earthquake,6.2,3.6,0.08,15,reviewed,us,us
+2019-01-06T15:55:11.300Z,54.8913,164.6844,10,4.7,mb,,156,4.025,0.52,us,us2000j0uc,2019-03-08T17:50:17.040Z,"90km WSW of Nikol'skoye, Russia",earthquake,5.6,1.9,0.104,28,reviewed,us,us
+2019-01-06T15:51:45.780Z,54.8659,164.6179,10,4.5,mb,,156,3.98,0.46,us,us2000j0uh,2019-03-08T17:50:17.040Z,"95km WSW of Nikol'skoye, Russia",earthquake,7.3,1.9,0.096,32,reviewed,us,us
+2019-01-06T14:15:07.940Z,34.0464,45.6698,10,4.9,mb,,49,1.068,0.61,us,us2000j0tq,2019-03-08T17:50:17.040Z,"34km NNE of Mandali, Iraq",earthquake,5.8,1.9,0.06,88,reviewed,us,us
+2019-01-06T13:55:06.710Z,34.0765,45.5737,10,4.6,mb,,67,1.044,0.86,us,us2000j7wj,2019-03-08T17:50:22.040Z,"36km N of Mandali, Iraq",earthquake,8.5,1.9,0.096,32,reviewed,us,us
+2019-01-06T13:54:19.910Z,34.0932,45.5111,7.18,4.6,mb,,165,1.035,0.43,us,us2000j7w1,2019-03-08T17:50:22.040Z,"38km N of Mandali, Iraq",earthquake,7.3,4.9,0.098,31,reviewed,us,us
+2019-01-06T13:41:59.060Z,34.1248,45.6794,14,5.6,mww,,40,0.99,0.65,us,us2000j0th,2019-03-08T17:50:17.040Z,"40km SSW of Sarpol-e Zahab, Iran",earthquake,5.6,1.8,0.059,28,reviewed,us,us
+2019-01-06T13:09:08.030Z,-28.2773,74.59,10,4.7,mb,,139,26.228,0.78,us,us2000j7w0,2019-03-08T17:50:22.040Z,"Mid-Indian Ridge",earthquake,17.1,1.9,0.108,26,reviewed,us,us
+2019-01-06T11:06:20.320Z,-15.1888,-70.8297,30.6,5,mb,,116,2.505,0.77,us,us2000j0ss,2019-03-08T17:50:17.040Z,"42km SW of Ayaviri, Peru",earthquake,7.2,5.8,0.054,109,reviewed,us,us
+2019-01-06T08:34:10.220Z,38.7217,141.4426,99.75,4.7,mb,,120,0.994,0.66,us,us2000j0ry,2019-03-08T17:50:17.040Z,"34km SE of Ichinoseki, Japan",earthquake,6.4,6.1,0.039,201,reviewed,us,us
+2019-01-06T07:31:52.760Z,-35.211,-104.8611,10,4.9,mb,,187,25.306,0.54,us,us2000j0rm,2019-03-08T17:50:17.040Z,"Southeast of Easter Island",earthquake,15.7,1.9,0.07,64,reviewed,us,us
+2019-01-06T07:30:04.660Z,-3.3944,153.6892,387.14,5.2,mww,,38,1.715,0.69,us,us2000j0qw,2019-03-08T17:50:17.040Z,"139km NNE of Taron, Papua New Guinea",earthquake,9.3,4.8,0.086,13,reviewed,us,us
+2019-01-06T07:25:40.680Z,51.2607,-178.1425,35,5.1,mb,,96,0.577,1.01,us,us2000j0qt,2019-03-08T17:50:17.040Z,"67km E of Amatignak Island, Alaska",earthquake,5.8,1.9,0.029,374,reviewed,us,us
+2019-01-06T07:15:22.300Z,13.4268,146.4338,10,4.5,mb,,72,1.531,0.52,us,us2000j7vp,2019-03-08T17:50:22.040Z,"155km ESE of Rota, Northern Mariana Islands",earthquake,10.6,1.9,0.093,34,reviewed,us,us
+2019-01-06T04:48:09.070Z,28.5413,51.6003,10,5,mb,,76,5.455,0.92,us,us2000j0pj,2019-03-08T17:50:16.040Z,"88km ESE of Bandar Bushehr, Iran",earthquake,3.4,1.8,0.055,104,reviewed,us,us
+2019-01-06T03:45:34.525Z,65.407,-153.2799,17.1,5.1,ml,,,,0.84,ak,ak0199za3yf,2020-01-06T03:55:44.051Z,"61km WNW of Tanana, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-01-05T22:54:14.440Z,25.8233,144.5691,14.28,5.7,mww,,20,2.485,0.75,us,us2000j0n0,2019-03-08T17:50:16.040Z,"272km ESE of Chichi-shima, Japan",earthquake,7.5,2.8,0.04,61,reviewed,us,us
+2019-01-05T21:26:11.320Z,-25.3361,-179.4193,434.28,4.9,mb,,102,4.113,0.86,us,us2000j0mc,2019-03-08T17:50:16.040Z,"South of the Fiji Islands",earthquake,9.9,5.6,0.057,96,reviewed,us,us
+2019-01-05T20:42:53.600Z,17.7838,122.9031,42.17,4.8,mb,,125,4.12,0.77,us,us2000j0m1,2019-03-08T17:50:16.040Z,"93km NNE of Dicabisagan, Philippines",earthquake,7.9,3.2,0.067,70,reviewed,us,us
+2019-01-05T19:25:38.520Z,-8.144,-71.587,570.41,6.8,mww,,16,1.181,1.15,us,us2000j0ja,2019-03-08T17:50:16.040Z,"90km W of Tarauaca, Brazil",earthquake,7.1,2.7,0.049,40,reviewed,us,us
+2019-01-05T18:55:06.890Z,-18.0407,-172.1656,10,5.1,mb,,64,2.36,0.82,us,us2000j0j1,2019-03-08T17:50:16.040Z,"203km ENE of Neiafu, Tonga",earthquake,10,1.8,0.089,41,reviewed,us,us
+2019-01-05T18:52:57.150Z,14.4113,-93.1719,35,4.7,mwr,,82,1.006,0.85,us,us2000j0ix,2019-03-08T17:50:16.040Z,"87km WSW of Puerto Madero, Mexico",earthquake,3.6,1.9,0.089,12,reviewed,us,us
+2019-01-05T18:47:11.740Z,51.3349,-178.1181,30,5.9,mww,,42,0.502,1.36,us,us2000j0iw,2019-03-08T17:50:16.040Z,"61km S of Tanaga Volcano, Alaska",earthquake,4.6,1.8,0.036,73,reviewed,us,us
+2019-01-05T18:13:45.190Z,3.0909,31.4019,10,4.8,mb,,53,3.727,0.68,us,us2000j0ip,2019-03-08T17:50:16.040Z,"44km SSE of Yumbe, Uganda",earthquake,7.8,1.9,0.075,55,reviewed,us,us
+2019-01-05T17:21:19.650Z,-5.0377,153.6352,38.8,4.6,mb,,99,1.69,1.27,us,us2000j7qx,2019-03-08T17:50:22.040Z,"91km SE of Taron, Papua New Guinea",earthquake,8.2,3.5,0.128,18,reviewed,us,us
+2019-01-05T17:08:31.460Z,14.9017,-91.4809,148.06,4.5,mb,,83,0.414,0.73,us,us2000j0ig,2019-03-08T17:50:16.040Z,"0km NE of San Andres Xecul, Guatemala",earthquake,5.1,4.8,0.046,140,reviewed,us,us
+2019-01-05T12:34:30.270Z,-56.3976,-27.6786,14.89,4.5,mb,,130,5.455,0.24,us,us2000j7qm,2019-03-08T17:50:22.040Z,"44km NW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,10.4,7.2,0.14,15,reviewed,us,us
+2019-01-05T11:19:27.340Z,12.9217,-88.6519,75.48,4.6,mb,,138,1.578,0.55,us,us2000j0hj,2019-03-08T17:50:16.040Z,"41km SSW of Puerto El Triunfo, El Salvador",earthquake,7.9,8.7,0.044,156,reviewed,us,us
+2019-01-05T10:54:57.590Z,-0.8253,127.6071,14.3,5.4,mww,,85,1.604,0.72,us,us2000j0hh,2019-03-08T17:50:16.040Z,"58km N of Laiwui, Indonesia",earthquake,6.9,4.3,0.063,24,reviewed,us,us
+2019-01-05T09:36:58.640Z,26.1622,-110.6621,10,4.5,mb,,139,1.564,1.35,us,us2000j0h7,2019-03-08T17:50:16.040Z,"70km ENE of Loreto, Mexico",earthquake,4.7,1.7,0.052,109,reviewed,us,us
+2019-01-05T08:34:23.690Z,-0.8425,127.6422,10,4.7,mb,,86,1.627,1,us,us2000j7qi,2019-03-08T17:50:22.040Z,"56km N of Laiwui, Indonesia",earthquake,6.2,1.8,0.087,40,reviewed,us,us
+2019-01-05T06:32:18.170Z,31.2327,130.7241,115.3,4.6,mb,,83,1.891,0.59,us,us2000j0gb,2019-03-08T17:50:16.040Z,"7km E of Ibusuki, Japan",earthquake,6.5,6.8,0.055,100,reviewed,us,us
+2019-01-05T05:02:23.450Z,-0.9067,127.4852,18.46,4.5,mb,,86,1.671,0.93,us,us2000j7q9,2019-03-08T17:50:22.040Z,"53km NNW of Laiwui, Indonesia",earthquake,7.7,1.5,0.121,20,reviewed,us,us
+2019-01-05T03:11:53.030Z,-0.8189,127.5122,10,4.7,mb,,113,1.586,1.37,us,us2000j0ff,2019-03-08T17:50:15.040Z,"61km NNW of Laiwui, Indonesia",earthquake,6.6,1.8,0.106,27,reviewed,us,us
+2019-01-05T03:03:37.390Z,-0.9009,127.6742,10,4.5,mb,,99,1.689,0.86,us,us2000j7q8,2019-03-08T17:50:22.040Z,"49km N of Laiwui, Indonesia",earthquake,7.4,1.9,0.18,9,reviewed,us,us
+2019-01-05T02:37:36.800Z,-21.9006,169.0459,10,4.8,mb,,122,2.421,0.81,us,us2000j7q7,2019-03-08T17:50:22.040Z,"126km ESE of Tadine, New Caledonia",earthquake,14.5,1.9,0.144,15,reviewed,us,us
+2019-01-05T02:22:37.400Z,23.8768,123.3178,21.01,4.5,mb,,109,0.651,0.84,us,us2000j7q6,2019-03-08T17:50:22.040Z,"72km SSE of Yonakuni, Japan",earthquake,7.1,4.8,0.118,21,reviewed,us,us
+2019-01-05T02:00:21.810Z,-3.8485,-103.656,10,4.5,mb,,213,25.513,0.7,us,us2000j7q5,2019-03-08T17:50:22.040Z,"Central East Pacific Rise",earthquake,9.6,2,0.091,35,reviewed,us,us
+2019-01-05T01:59:21.610Z,-1.0211,127.4736,10,5,mb,,115,1.784,0.5,us,us2000j7qg,2019-03-08T17:50:22.040Z,"42km NNW of Laiwui, Indonesia",earthquake,7.2,1.9,0.17,11,reviewed,us,us
+2019-01-05T01:55:38.270Z,-0.84,127.6814,10,5.2,mww,,78,1.631,1.11,us,us2000j0f5,2019-03-08T17:50:15.040Z,"56km N of Laiwui, Indonesia",earthquake,6.8,1.8,0.065,23,reviewed,us,us
+2019-01-05T01:04:18.750Z,4.4493,126.1068,106.98,5,mww,,50,2.655,0.97,us,us2000j0f3,2019-03-08T17:50:15.040Z,"127km SE of Sarangani, Philippines",earthquake,7.7,5.1,0.08,15,reviewed,us,us
+2019-01-04T23:14:25.640Z,1.1169,127.3416,148.14,4.5,mb,,101,0.343,0.69,us,us2000j7bc,2019-03-08T17:50:21.040Z,"35km N of Ternate, Indonesia",earthquake,6.7,7.9,0.157,12,reviewed,us,us
+2019-01-04T22:18:56.620Z,-21.0141,-69.136,139.95,4.7,mb,,94,0.329,1.41,us,us2000j0e3,2019-03-08T17:50:15.040Z,"136km SE of Iquique, Chile",earthquake,5.8,6.7,0.275,4,reviewed,us,us
+2019-01-04T21:43:11.330Z,11.2897,-39.7617,10,4.9,mb,,68,17.434,0.75,us,us2000j0ds,2019-03-08T17:50:15.040Z,"North Atlantic Ocean",earthquake,6.8,1.8,0.099,32,reviewed,us,us
+2019-01-04T19:45:03.470Z,-60.6901,-26.5353,10,4.7,mb,,164,14.442,1.03,us,us2000j7be,2019-03-08T17:50:21.040Z,"184km S of Bristol Island, South Sandwich Islands",earthquake,28.3,1.9,0.152,14,reviewed,us,us
+2019-01-04T19:27:38.670Z,40.19,19.7274,12.61,4.8,mb,,34,0.479,1.23,us,us2000j0ch,2019-03-08T17:50:15.040Z,"9km N of Himare, Albania",earthquake,4,2.5,0.051,120,reviewed,us,us
+2019-01-04T14:32:57.510Z,10.9342,-61.37,10,4.9,ml,,84,1.222,1.26,us,us2000j0qg,2019-03-08T17:50:17.040Z,"31km NE of Petit Valley, Trinidad and Tobago",earthquake,5.4,2,0.256,2,reviewed,us,us
+2019-01-04T12:33:05.990Z,26.3588,-110.7377,10,4.9,mb,,136,1.649,0.98,us,us2000j09h,2019-03-08T17:50:15.040Z,"71km ENE of Loreto, Mexico",earthquake,5.5,1.9,0.043,169,reviewed,us,us
+2019-01-04T10:11:20.360Z,36.0731,71.7714,113.4,4.5,mb,,68,1.456,0.98,us,us2000j092,2019-03-08T17:50:15.040Z,"25km N of Chitral, Pakistan",earthquake,5.8,7.4,0.121,20,reviewed,us,us
+2019-01-04T09:31:46.990Z,2.7976,-31.1997,10,4.7,mb,,84,9.77,0.76,us,us2000j7b2,2019-03-08T17:50:21.040Z,"Central Mid-Atlantic Ridge",earthquake,10.2,1.9,0.104,28,reviewed,us,us
+2019-01-04T08:49:53.430Z,-2.8457,-76.3184,128.26,4.6,mb,,71,2.96,0.93,us,us2000j07n,2019-03-08T17:50:15.040Z,"208km ESE of Macas, Ecuador",earthquake,4.9,7.2,0.061,81,reviewed,us,us
+2019-01-04T06:22:45.630Z,-6.5176,130.4073,127.9,5.6,mww,,29,1.703,0.77,us,us2000j076,2019-03-08T17:50:15.040Z,"187km NNW of Saumlaki, Indonesia",earthquake,5.9,4.4,0.051,37,reviewed,us,us
+2019-01-04T03:50:47.560Z,-28.979,-178.3698,203.38,4.9,mb,,75,0.468,0.77,us,us2000j06i,2019-03-08T17:50:15.040Z,"55km NW of Raoul Island, New Zealand",earthquake,14.7,5.4,0.106,30,reviewed,us,us
+2019-01-03T23:15:45.770Z,-2.6007,140.5833,10,4.5,mb,,100,0.148,0.96,us,us2000j5vu,2019-03-08T17:50:21.040Z,"3km N of Abepura, Indonesia",earthquake,3.8,1.9,0.087,39,reviewed,us,us
+2019-01-03T21:35:15.350Z,54.8864,164.6918,10,5.4,mb,,69,4.027,0.67,us,us2000j04m,2019-03-08T17:50:15.040Z,"89km WSW of Nikol'skoye, Russia",earthquake,7.7,1.8,0.024,582,reviewed,us,us
+2019-01-03T21:11:51.720Z,-5.6193,-76.9012,43.68,4.9,mb,,139,3.915,0.59,us,us2000j04a,2019-03-08T17:50:15.040Z,"48km N of Moyobamba, Peru",earthquake,8.9,8.4,0.043,167,reviewed,us,us
+2019-01-03T20:59:02.320Z,2.3908,127.3019,54.41,5,mww,,104,1.609,0.79,us,us2000j048,2019-03-08T17:50:15.040Z,"107km NW of Tobelo, Indonesia",earthquake,7.6,6.9,0.089,12,reviewed,us,us
+2019-01-03T20:46:19.530Z,48.8819,153.7228,122.73,5.2,mb,,48,4.92,0.85,us,us2000j03t,2019-03-08T17:50:15.040Z,"264km SW of Severo-Kuril'sk, Russia",earthquake,10,5.6,0.031,338,reviewed,us,us
+2019-01-03T18:24:36.670Z,-18.6185,-173.0884,10,4.8,mb,,106,3.028,0.62,us,us2000j5vg,2019-03-08T17:50:21.040Z,"94km E of Neiafu, Tonga",earthquake,7.4,2,0.185,12,reviewed,us,us
+2019-01-03T18:16:12.160Z,1.7936,128.6351,35,4.5,mb,,114,1.624,0.77,us,us2000j5vh,2019-03-08T17:50:21.040Z,"69km E of Tobelo, Indonesia",earthquake,6,2,0.108,25,reviewed,us,us
+2019-01-03T18:02:50.140Z,22.9278,121.0375,10,4.8,mb,,100,0.116,0.77,us,us2000j02k,2019-03-08T17:50:15.040Z,"21km NNW of Taitung City, Taiwan",earthquake,5.7,1.8,0.062,82,reviewed,us,us
+2019-01-03T17:57:46.110Z,53.3335,159.7347,67.98,5,mb,,116,0.723,0.67,us,us2000j02g,2019-03-08T17:50:14.040Z,"79km ENE of Petropavlovsk-Kamchatskiy, Russia",earthquake,8.2,3.4,0.033,293,reviewed,us,us
+2019-01-03T16:42:18.840Z,-10.5994,108.5031,6.77,4.6,mb,,83,2.806,1.01,us,us2000j024,2019-03-08T17:50:14.040Z,"South of Java, Indonesia",earthquake,6.4,4.7,0.099,34,reviewed,us,us
+2019-01-03T15:34:35.920Z,25.3139,124.1513,128.63,4.7,mb,,68,1.335,0.9,us,us2000j01x,2019-03-08T17:50:14.040Z,"107km N of Ishigaki, Japan",earthquake,8.3,4.7,0.051,115,reviewed,us,us
+2019-01-03T14:03:44.980Z,11.7558,93.3604,111.1,4.5,mb,,94,6.195,1.04,us,us2000j01m,2019-03-08T17:50:14.040Z,"67km E of Port Blair, India",earthquake,10.2,8.6,0.093,34,reviewed,us,us
+2019-01-03T13:01:18.720Z,-22.4385,169.8222,10,4.6,mb,,165,3.12,1.11,us,us2000j5vb,2019-03-08T17:50:21.040Z,"223km ESE of Tadine, New Caledonia",earthquake,9.4,2,0.142,15,reviewed,us,us
+2019-01-03T12:47:31.970Z,-59.7459,-26.201,42.43,5.4,mb,,29,7.836,0.87,us,us2000j01b,2019-03-08T17:50:14.040Z,"81km SSE of Bristol Island, South Sandwich Islands",earthquake,9.9,4.7,0.059,99,reviewed,us,us
+2019-01-03T09:10:28.440Z,33.0514,130.4705,10,4.7,mb,,97,0.348,0.6,us,us2000j00n,2019-03-08T17:50:14.040Z,"2km NE of Omuta, Japan",earthquake,4.9,1.8,0.075,54,reviewed,us,us
+2019-01-03T08:01:01.350Z,-12.8623,45.4104,10,4.5,mb,,80,5.928,0.98,us,us2000j5v2,2019-03-08T17:50:21.040Z,"15km ESE of Pamandzi, Mayotte",earthquake,10.3,1.9,0.18,9,reviewed,us,us
+2019-01-03T07:42:27.690Z,-9.2993,109.585,10,4.5,mb,,83,1.661,1.1,us,us2000j00l,2019-03-08T17:50:14.040Z,"167km SSW of Bambanglipuro, Indonesia",earthquake,4.4,1.8,0.109,25,reviewed,us,us
+2019-01-03T04:49:18.340Z,-11.4695,118.1823,32.59,4.6,mb,,43,4.886,0.89,us,us2000izzq,2019-03-08T17:50:14.040Z,"220km SSW of Kahale, Indonesia",earthquake,7.1,6.8,0.114,23,reviewed,us,us
+2019-01-03T04:21:24.340Z,-3.8586,127.7562,53.37,4.7,mb,,51,4.58,0.85,us,us2000izzc,2019-03-08T17:50:14.040Z,"45km WSW of Amahusu, Indonesia",earthquake,7.7,8,0.081,46,reviewed,us,us
+2019-01-03T03:25:49.780Z,-47.9533,165.5703,10,4.6,mb,,123,1.942,1.05,us,us2000izyx,2019-03-08T17:50:14.040Z,"257km SW of Bluff, New Zealand",earthquake,8.8,1.8,0.132,17,reviewed,us,us
+2019-01-03T03:08:17.020Z,36.2364,70.3225,184.99,4.5,mb,,77,1.678,0.83,us,us2000izyw,2019-03-08T17:50:14.040Z,"46km WNW of `Alaqahdari-ye Kiran wa Munjan, Afghanistan",earthquake,8.1,12.1,0.191,8,reviewed,us,us
+2019-01-03T02:28:52.480Z,-29.5078,-177.9724,70.7,4.6,mb,,170,0.264,0.42,us,us2000j5uu,2019-03-08T17:50:21.040Z,"27km SSW of Raoul Island, New Zealand",earthquake,13.4,11.3,0.151,13,reviewed,us,us
+2019-01-03T00:48:08.370Z,28.1902,104.9182,10,4.8,mww,,20,4.507,0.59,us,us2000izyd,2019-03-08T17:50:14.040Z,"33km WSW of Zhongcheng, China",earthquake,6.2,1.8,0.071,19,reviewed,us,us
+2019-01-03T00:03:08.150Z,-55.7364,-26.9774,10,5.1,mb,,88,5.663,0.82,us,us2000izy7,2019-03-08T17:50:14.040Z,"108km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.7,1.7,0.091,39,reviewed,us,us
+2019-01-02T23:01:41.160Z,54.5791,164.1577,10,4.5,mb,,105,3.618,0.43,us,us2000j5up,2019-03-08T17:50:21.040Z,"136km WSW of Nikol'skoye, Russia",earthquake,4.9,1.9,0.083,42,reviewed,us,us
+2019-01-02T15:29:08.440Z,-22.4871,-176.4267,82.75,4.6,mb,,118,6.864,0.69,us,us2000j5uf,2019-03-08T17:50:21.040Z,"190km SW of Vaini, Tonga",earthquake,10.5,9.3,0.146,15,reviewed,us,us
+2019-01-02T15:11:16.070Z,39.4417,143.6408,21.01,4.5,mb,,110,2.39,0.85,us,us2000j5ui,2019-03-08T17:50:21.040Z,"145km E of Yamada, Japan",earthquake,9.1,6.4,0.18,9,reviewed,us,us
+2019-01-02T14:26:01.950Z,-9.445,117.9736,10,4.9,mww,,46,3.897,1.15,us,us2000izub,2019-03-08T17:50:14.040Z,"72km S of Boal Atas, Indonesia",earthquake,7.3,1.8,0.071,19,reviewed,us,us
+2019-01-02T13:40:23.980Z,-6.4851,103.6156,34.95,5.1,mb,,64,2.21,0.83,us,us2000izty,2019-03-08T17:50:14.040Z,"135km SSW of Biha, Indonesia",earthquake,6.8,5.3,0.073,61,reviewed,us,us
+2019-01-02T13:36:01.430Z,5.5593,126.3478,57.53,4.6,mb,,149,1.683,0.75,us,us2000iztz,2019-03-08T17:50:14.040Z,"87km ESE of Caburan, Philippines",earthquake,9.9,2.8,0.119,21,reviewed,us,us
+2019-01-02T13:33:08.520Z,-6.5492,103.6276,30.9,4.5,mb,,169,2.274,0.8,us,us2000j5ug,2019-03-08T17:50:21.040Z,"142km SSW of Biha, Indonesia",earthquake,9.8,6.7,0.145,14,reviewed,us,us
+2019-01-02T13:03:07.910Z,54.779,164.7238,10,4.5,mb,,163,4,0.57,us,us2000iztm,2019-03-08T17:50:14.040Z,"93km WSW of Nikol'skoye, Russia",earthquake,10.5,1.9,0.102,28,reviewed,us,us
+2019-01-02T11:33:39.480Z,-45.9386,34.8953,10,4.7,mb,,82,14.236,0.31,us,us2000j5u6,2019-03-08T17:50:21.040Z,"244km WNW of Marion Island, Prince Edward Islands",earthquake,12.5,1.9,0.13,18,reviewed,us,us
+2019-01-02T09:53:30.550Z,-3.2699,148.5491,24.17,4.7,mb,,65,1.697,0.74,us,us2000j5u4,2019-03-08T17:50:21.040Z,"198km SE of Lorengau, Papua New Guinea",earthquake,6.8,5.3,0.101,30,reviewed,us,us
+2019-01-02T07:59:50.040Z,-2.0544,139.0416,34.52,5,mb,,26,1.723,1.13,us,us2000izsn,2019-03-08T17:50:13.040Z,"183km WNW of Abepura, Indonesia",earthquake,7.9,4.2,0.077,54,reviewed,us,us
+2019-01-02T07:57:29.570Z,29.3932,51.3003,10,4.9,mb,,70,6.22,1.07,us,us2000izsm,2019-03-08T17:50:13.040Z,"16km NNE of Borazjan, Iran",earthquake,6.1,1.9,0.055,102,reviewed,us,us
+2019-01-02T06:48:43.541Z,58.3343,-153.1447,61.8,4.9,ml,,,,0.95,ak,ak0193exoam,2019-03-08T17:50:13.040Z,"71km NNW of Kodiak Station, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-01-02T04:30:30.120Z,-12.7763,45.4543,10,4.6,mb,,111,5.998,0.52,us,us2000j5u2,2019-03-08T17:50:21.040Z,"18km E of Pamandzi, Mayotte",earthquake,7.4,1.9,0.193,8,reviewed,us,us
+2019-01-02T03:12:54.750Z,42.4859,104.4129,10,5,mb,,41,5.693,0.33,us,us2000izrq,2019-03-08T17:50:13.040Z,"71km WSW of Sangiyn Dalay, Mongolia",earthquake,7.3,1.9,0.044,163,reviewed,us,us
+2019-01-02T00:01:59.590Z,13.1406,121.2786,35,4.5,mb,,135,8.374,0.67,us,us2000j5t5,2019-03-08T17:50:20.040Z,"4km S of Victoria, Philippines",earthquake,6.9,2,0.121,20,reviewed,us,us
+2019-01-01T20:24:36.330Z,-2.4525,99.6762,10,5.1,mb,,127,3.782,1.17,us,us2000izpf,2019-03-08T17:50:13.040Z,"107km SSE of Muara Siberut, Indonesia",earthquake,7.5,1.8,0.066,75,reviewed,us,us
+2019-01-01T16:39:16.490Z,29.4236,51.2694,10,4.6,mb,,71,6.261,0.82,us,us2000iznl,2019-03-08T17:50:13.040Z,"18km NNE of Borazjan, Iran",earthquake,7.6,1.9,0.086,40,reviewed,us,us
+2019-01-01T16:25:36.300Z,-9.5818,122.6874,62.72,5,mww,,57,1.039,1.16,us,us2000iznk,2019-03-08T17:50:13.040Z,"98km SSE of Habibola, Indonesia",earthquake,3.9,5.4,0.089,12,reviewed,us,us
+2019-01-01T15:14:39.680Z,-18.2146,-177.7433,609.64,4.5,mb,,70,3.901,0.61,us,us2000j5tk,2019-03-08T17:50:20.040Z,"287km NNE of Ndoi Island, Fiji",earthquake,13,9,0.076,51,reviewed,us,us
+2019-01-01T13:34:51.130Z,14.0411,144.7262,187.97,4.5,mb,,99,0.469,1.01,us,us2000iznb,2019-03-08T17:50:13.040Z,"52km WSW of Rota, Northern Mariana Islands",earthquake,13.8,7.9,0.084,41,reviewed,us,us
+2019-01-01T12:25:34.700Z,-10.5086,108.5182,10,4.9,mb,,55,2.819,0.85,us,us2000izmy,2019-03-08T17:50:13.040Z,"298km S of Cireuma, Indonesia",earthquake,5,1.7,0.065,75,reviewed,us,us
+2019-01-01T11:55:02.180Z,5.3785,94.5625,43.76,4.9,mww,,39,2.379,0.93,us,us2000izmv,2019-03-08T17:50:13.040Z,"86km WSW of Banda Aceh, Indonesia",earthquake,7.5,4.7,0.093,11,reviewed,us,us
+2019-01-01T11:40:05.530Z,34.7979,23.8582,10,4.9,mb,,72,0.977,0.85,us,us2000izms,2019-03-08T17:50:13.040Z,"50km SSE of Palaiochora, Greece",earthquake,6.6,1.9,0.057,96,reviewed,us,us
+2019-01-01T05:58:52.820Z,-20.7873,-177.7682,480.77,4.7,mb,,81,4.973,0.73,us,us2000izl5,2019-03-08T17:50:13.040Z,"98km E of Ndoi Island, Fiji",earthquake,12.1,6.6,0.062,78,reviewed,us,us
+2019-01-01T04:19:17.680Z,8.5808,125.834,46.03,4.6,mb,,114,1.522,0.48,us,us2000izkx,2019-03-08T17:50:13.040Z,"1km SSW of Aurora, Philippines",earthquake,4.2,7,0.094,34,reviewed,us,us
+2019-01-01T03:46:31.210Z,-24.0161,-15.031,10,4.5,mb,,79,11.845,0.84,us,us2000j5td,2019-03-08T17:50:20.040Z,"Southern Mid-Atlantic Ridge",earthquake,14.2,1.3,0.18,9,reviewed,us,us
+2019-01-01T03:03:30.604Z,61.2975,-149.9523,44.4,5,ml,,,,0.78,ak,ak0191pccr7,2019-12-16T03:37:30.673Z,"9km NNW of Anchorage, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-01-01T03:00:42.450Z,5.7717,126.946,67.36,4.6,mb,,112,1.872,0.85,us,us2000izkm,2019-03-08T17:50:13.040Z,"107km SE of Pondaguitan, Philippines",earthquake,8.7,6.8,0.1,30,reviewed,us,us
+2019-01-01T02:04:02.950Z,5.8873,127.4672,35,4.5,mb,,98,2.213,0.93,us,us2000j5tb,2019-03-08T17:50:20.040Z,"152km ESE of Pondaguitan, Philippines",earthquake,4.4,1.9,0.099,30,reviewed,us,us
+2019-01-01T00:21:25.050Z,-34.903,-111.5903,10,4.8,mb,,158,7.936,0.46,us,us2000j5tc,2019-03-08T17:50:20.040Z,"Southern East Pacific Rise",earthquake,14,1.9,0.103,29,reviewed,us,us
+2019-01-01T00:04:05.950Z,-14.951,167.2922,40.14,4.8,mb,,114,7.128,0.93,us,us2000izjv,2019-03-08T17:50:12.040Z,"28km ENE of Port-Olry, Vanuatu",earthquake,5.1,5.7,0.069,65,reviewed,us,us
